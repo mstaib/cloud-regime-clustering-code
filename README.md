@@ -15,9 +15,10 @@ Informatics: CI 2017},
 
 ## Dependencies
 * [TFOCS](https://github.com/cvxr/TFOCS)
-* [MOSEK](https://www.mosek.com/) (for one of the Wasserstein gradient oracles)
-* [FastEMD](http://www.ariel.ac.il/sites/ofirpele/FastEMD/code/) (for one of the Wasserstein gradient oracles)
-* [sinkhornTransport.m from Marco Cuturi](http://marcocuturi.net/SI.html) (for one of the Wasserstein gradient oracles)
+* [Gurobi](https://www.gurobi.com/) (for the Wasserstein gradient oracle)
+* [MOSEK](https://www.mosek.com/) (for an alternative Wasserstein gradient oracle)
+* [FastEMD](http://www.ariel.ac.il/sites/ofirpele/FastEMD/code/) (for an alternative Wasserstein gradient oracle)
+* [sinkhornTransport.m from Marco Cuturi](http://marcocuturi.net/SI.html) (for an alternative Wasserstein gradient oracle)
 * ICCSP dataset (details to be filled in)
 
 ## Getting started
